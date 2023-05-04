@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="300" height="300" src="https://github.com/deborahwei/pinteresting/blob/main/app/assets/images/pinterest-logo.png">
+  <img width="300" height="300" src="https://github.com/minion550/pinterest-demo/blob/main/app/assets/images/pinterest-logo.png">
 </p>
 
 ## Background 
 
-[Pinteresting](https://pinteresting-fs.herokuapp.com/#/) is a [Pinterest](https://www.pinterest.com/) clone. Pinterest is a website that allows users to create and filter through pins and add them to their boards. Like Pinterest, Pinteresting is a place for people to discover and inspire others. 
+[pinterest-demo](https://pinterest-demo-fs.herokuapp.com/#/) is a [Pinterest](https://www.pinterest.com/) clone. Pinterest is a website that allows users to create and filter through pins and add them to their boards. Like Pinterest, pinterest-demo is a place for people to discover and inspire others. 
 
 ## Technologies
 
@@ -22,19 +22,19 @@
 
 ### Splash  
 
-![](https://github.com/deborahwei/pinteresting/blob/main/app/assets/images/splash.gif)
+![](https://github.com/minion550/pinterest-demo/blob/main/app/assets/images/splash.gif)
 
 ### Search bar 
 
-![](https://github.com/deborahwei/pinteresting/blob/main/app/assets/images/seach.gif)
+![](https://github.com/minion550/pinterest-demo/blob/main/app/assets/images/seach.gif)
 
 ### Unsave and save pins to boards
 
-![](https://github.com/deborahwei/pinteresting/blob/main/app/assets/images/pins.gif)
+![](https://github.com/minion550/pinterest-demo/blob/main/app/assets/images/pins.gif)
 
 ### Comments
 
-![](https://github.com/deborahwei/pinteresting/blob/main/app/assets/images/comment.gif)
+![](https://github.com/minion550/pinterest-demo/blob/main/app/assets/images/comment.gif)
 
 ## Code Snippets 
 

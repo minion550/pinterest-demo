@@ -17,7 +17,7 @@ PinsUser.destroy_all
 
 demo_user = User.create({username: 'DemoUser', password: 'password'})
 
-user_1 = User.new({username: 'DeborahWei', password: 'password'})
+user_1 = User.new({username: 'minion550', password: 'password'})
 pic_1 = URI.open("https://fs-pinteresting-dev.s3.amazonaws.com/pfp/deborah.jpg")
 user_1.image.attach(io: pic_1, filename: "deborah.jpg")
 user_1.save!

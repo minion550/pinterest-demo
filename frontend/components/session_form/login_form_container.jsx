@@ -21,7 +21,7 @@ const mapDispatchToProps = dispatch => {
         dispatch(closeModal())
         dispatch(openModal('signup'))
         }}>
-        Not on Pinteresting yet? Sign up
+        Not on Pinterest-demo yet? Sign up
       </div>
     )
   };

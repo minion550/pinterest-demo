@@ -1,5 +1,5 @@
 {
-  "name": "pinteresting",
+  "name": "pinterest-demo",
   "private": true,
   "description": "This README would normally document whatever steps are necessary to get the application up and running.",
   "version": "1.0.0",
@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deborahwei/pinteresting.git"
+    "url": "git+https://github.com/minion550/pinterest-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deborahwei/pinteresting/issues"
+    "url": "https://github.com/minion550/pinterest-demo/issues"
   },
-  "homepage": "https://github.com/deborahwei/pinteresting#readme",
+  "homepage": "https://github.com/minion550/pinterest-demo#readme",
   "dependencies": {
     "@babel/core": "^7.18.10",
     "@babel/preset-env": "^7.18.10",

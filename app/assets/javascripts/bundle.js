@@ -2535,10 +2535,10 @@ var Nav = function Nav(props) {
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
       className: "socials"
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-      href: "https://deborahwei.dev",
+      href: "https://minion550.dev",
       target: "_blank"
     }, "Portfolio"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-      href: "https://github.com/deborahwei/pinteresting",
+      href: "https://github.com/minion550/pinterest-demo",
       target: "_blank"
     }, "Github"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
       href: "https://www.linkedin.com/in/deborah-wei-163b10152/",
@@ -2589,7 +2589,7 @@ var Nav = function Nav(props) {
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
       className: "logged-in-socials"
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-      href: "https://github.com/deborahwei/pinteresting",
+      href: "https://github.com/minion550/pinterest-demo",
       target: "_blank"
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("i", {
       className: "fa-brands fa-github fa-xl"
@@ -2599,7 +2599,7 @@ var Nav = function Nav(props) {
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("i", {
       className: "fa-brands fa-linkedin-in fa-xl"
     })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-      href: "https://deborahwei.dev",
+      href: "https://minion550.dev",
       target: "_blank"
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("i", {
       className: "fa-solid fa-user fa-xl"
@@ -4568,7 +4568,7 @@ var mapDispatchToProps = function mapDispatchToProps(dispatch) {
         dispatch((0,_actions_modal_actions__WEBPACK_IMPORTED_MODULE_4__.closeModal)());
         dispatch((0,_actions_modal_actions__WEBPACK_IMPORTED_MODULE_4__.openModal)('signup'));
       }
-    }, "Not on Pinteresting yet? Sign up")
+    }, "Not on Pinterest-demo yet? Sign up")
   };
 };
 

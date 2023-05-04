@@ -77,7 +77,7 @@ const Splash = () => {
                     </div>
                     <div className="one-and-half-text-container">
                         <h1>See it, make it, try it, do it</h1>
-                        <p>The best part of Pinteresting is discovering new things and ideas from people around the word</p>
+                        <p>The best part of Pinterest-demo is discovering new things and ideas from people around the word</p>
                     </div>
             </section>
             <section className="second-page">

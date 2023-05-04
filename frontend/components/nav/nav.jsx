@@ -41,12 +41,12 @@ const Nav = (props) => {
         <div className="logged-out-nav">
             <div className='logo-header'>
                 <i onClick={refresh}className="fa-brands fa-pinterest fa-2xl fa-flip-horizontal logo-pinterest"></i>
-                <h1 className="logo-text"> Pinteresting</h1>
+                <h1 className="logo-text"> Pinterest-demo</h1>
             </div>
             <div className="logged-out-nav-right">
                 <div className="socials">
-                    <a href="https://deborahwei.dev" target="_blank">Portfolio</a>
-                    <a href="https://github.com/deborahwei/pinteresting" target="_blank">Github</a>
+                    <a href="https://minion550.dev" target="_blank">Portfolio</a>
+                    <a href="https://github.com/minion550/pinteresting" target="_blank">Github</a>
                     <a href="https://www.linkedin.com/in/deborah-wei-163b10152/" target="_blank">LinkedIn</a>
                 </div>
                 <div className="logged-out-buttons">
@@ -86,9 +86,9 @@ const Nav = (props) => {
             </div>
             <div className="logged-in-nav-right">
                 <div className="logged-in-socials">
-                    <a href="https://github.com/deborahwei/pinteresting" target="_blank"><i className="fa-brands fa-github fa-xl"></i></a>
+                    <a href="https://github.com/minion550/pinterest-demo" target="_blank"><i className="fa-brands fa-github fa-xl"></i></a>
                     <a href="https://www.linkedin.com/in/deborah-wei-163b10152/" target="_blank"><i className="fa-brands fa-linkedin-in fa-xl"></i></a>
-                    <a href="https://deborahwei.dev" target="_blank"><i className="fa-solid fa-user fa-xl"></i></a>
+                    <a href="https://minion550.dev" target="_blank"><i className="fa-solid fa-user fa-xl"></i></a>
                 </div>
             <div className={`user-profile-icon user-avatar${onProfile ? "-clicked" : ""}`} >
                     <Link to={`/users/${currentUser.username}/`} className="hover-user-pic">
